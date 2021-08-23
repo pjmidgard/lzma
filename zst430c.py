@@ -2545,20 +2545,11 @@ class compression:
                         data = binary_file.read()
                         lenf10=len(data)
                         
-                        
-                        
-                        	 
-           
                         data=b'\xfd\x37\x7a\x58\x5a'+data 
                          
                         import lzma
                         data=lzma.decompress(data)
                         	
-                        	
-                       
-                   
-                        
-                        
                         s=str(data)
                         lenf1=len(data)
                         lenf5=len(data)
