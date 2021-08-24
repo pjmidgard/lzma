@@ -5,11 +5,6 @@ Instruction:
 1. Need python 3.9.6
 2. install pip: pip install lzma
 3.
-ul, cld, cld3 ; cldd3, cldd, cl .bin.bin.bin.bin.bin.bin
-
-cld, cld3; cldd3 cld .bin.bin.bin.bin.bin
-
-cld, cld3, cld, cld3; cldd3, cldd, cldd3, cldd .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
 
 ul; cl; .bin
 
